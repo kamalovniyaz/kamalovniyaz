@@ -7,7 +7,7 @@
 Меня зовут Нияз, и я Fullstack разработчик. </div>  
   
 
-- 👨‍🎓 В настоящее время обучаюсь на 3 курсе КФУ факультета программной инженерии.  
+- 👨‍🎓 В настоящее время обучаюсь на 3 курсе КФУ, факультета программной инженерии.  
   
 
 - 👨‍💻 Моя профессиональная деятельность связана с разработкой проекта на Django и Vue.   
@@ -67,33 +67,8 @@
 <br/>  
 
 
-## Connect with me  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kamalovniyaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
