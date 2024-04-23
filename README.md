@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<a href="https://wakatime.com/@018bb8ef-9972-4209-bcdf-867468570a92"><img src="https://wakatime.com/badge/user/018bb8ef-9972-4209-bcdf-867468570a92.svg" alt="Total time coded since Nov 10 2023" /></a>
+<a href="https://wakatime.com/@018bb8ef-9972-4209-bcdf-867468570a92"><img src="https://wakatime.com/badge/user/018bb8ef-9972-4209-bcdf-867468570a92.svg" alt="Total time coded since Apr 22 2024" /></a>
 
 ### <div align="center">Приветствую на моей GitHub странице! 
 Меня зовут Нияз, и я Fullstack разработчик. </div>  
